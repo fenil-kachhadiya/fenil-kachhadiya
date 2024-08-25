@@ -1,3 +1,4 @@
+![logo](https://github.com/fenil-kachhadiya/fenil-kachhadiya/blob/main/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm fenil kachhadiya</h1>
 <h3 align="center">Currently Pursuing: Bachelor of Science in Computer Science at Gujarat University in Ahmedabad</h3>
 
